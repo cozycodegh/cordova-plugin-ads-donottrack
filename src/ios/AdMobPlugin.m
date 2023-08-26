@@ -4,6 +4,7 @@
 #import <AppTrackingTransparency/AppTrackingTransparency.h>
 #import <AdSupport/AdSupport.h>
 #import <AdSupport/ASIdentifierManager.h>
+#import <UserMessagingPlatform/UserMessagingPlatform.h>
 
 #import "AdMobPlugin.h"
 #import <Cordova/CDVPlugin.h>
